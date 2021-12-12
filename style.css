@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:lightskyblue;
+}
+header img{  
+padding:10px;
+}
+h1{
+text-align: center;
+color: orange;
+}
+footer pre{
+background-color:limegreen;
+font-size: 20px;
+}
+footer p{
+background-color:limegreen;
+}
+nav a{
+background-color:blue;
+color: white;
+text-decoration: none;
+border-radius:20px ;
+font-size: 15px;
+margin: 30px;
+padding: 5px;
+}
+.non{
+background-color: blue;
+color: white;
+border:2px solid blue;
+}
+nav {margin-top: 20px;}
+p img{
+background-color:lightgray;
+}
+
+.hlop {
+    height: 100%;
+    background-color: lightgray;
+    
+}
+.mrr{
+color: blue;
+}
+.bbb{
+border: 1px solid lightseagreen;
+border-radius: 5px;
+}
+.hhh{
+color: blue;
+}
+.jjj{
+text-decoration: none;
+border:1px solid blue;
+padding: 10px;
+}
+.gg{
+color: blue;
+}
+.kk{
+color: blue;
+}
